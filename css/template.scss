@@ -1,0 +1,5 @@
+/* sass --watch css/template.scss:css/template.min.css --style compressed */
+
+@import 'partials/variables';
+@import 'partials/typography';
+@import '../node_modules/bootstrap/scss/bootstrap';

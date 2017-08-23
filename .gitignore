@@ -1,0 +1,9 @@
+.sass-cache/
+_bkp_original/
+_material/
+_temp/
+node_modules/
+Plugins-AJUSTES/
+
+npm-debug.log
+npm-debug.log*
